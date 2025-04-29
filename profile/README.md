@@ -15,5 +15,7 @@
 | `connect_test` | 프로젝트 연결 및 통신 관련 테스트용 | HTML |
 | `docker-practice` | Docker 및 컨테이너 실습 | JavaScript |
 | `himedia_sample` | 딥러닝 특강에서 진행한 FastAPI 기반 예제 코드 | Python |
+| `kakao-qabot` (Private) | 구글 폼을 통해 제출된 수강생 문의를 감지하여 카카오톡으로 알림을 보내는 시스템 | Python |
+| `self-hosted-ai-starter-kit` (Folk) | Docker를 이용해 로컬에서 무료로 실행할 수 있는 n8n 레포 |
 
 ---

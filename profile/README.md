@@ -9,6 +9,7 @@
 
 | 레포지토리 | 설명 | 주요 기술 |
 |------------|------|-----------|
+| `dailyscrum-tracking` (Private) | 노션 DB에서 데일리 스크럼 현황을 자동으로 수집해 구글 시트에 날짜별로 기록 | Python |
 | `auto_notion` (Private) | 수강생 노션 정보를 가져와 요약 작업 리스트를 자동으로 생성하는 코드 | Python |
 | `crewai_practice` | CrewAI 관련 실습용 레포지토리 | python |
 | `release_test` | 릴리즈 테스트용 레포지토리 | HTML |

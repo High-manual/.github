@@ -9,6 +9,7 @@
 
 | 레포지토리 | 설명 | 주요 기술 |
 |------------|------|-----------|
+| `mid-report-share` | 데일리 스크럼 중간 정산용 성장리포트 노션 이메일로 확인할 수 있는 웹 페이지 | Javascript |
 | `final-report` | Google Sheets 기반 팀별 작업 기록을 요약·정리하는 자동화 보고서 생성기 | Python |
 | `dailyscrum-tracking` (Private) | 노션 DB에서 데일리 스크럼 현황을 자동으로 수집해 구글 시트에 날짜별로 기록 | Python |
 | `auto_notion` (Private) | 수강생 노션 정보를 가져와 요약 작업 리스트를 자동으로 생성하는 코드 | Python |

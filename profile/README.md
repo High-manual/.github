@@ -9,6 +9,7 @@
 
 | 레포지토리 | 설명 | 주요 기술 |
 |------------|------|-----------|
+| `langgraph_practice` | Langgraph 관련 실습용 레포지토리 | python |
 | `weeklyscrum-tracking` | 노션 데일리 스크럼 DB에서 주차별 트래킹 및 요약 | Python |
 | `vibe-coding` | 바이브코딩 특강 들으면서 정리한 코드 | Python |
 | `mid-report-share` | 데일리 스크럼 중간 정산용 성장리포트 노션 이메일로 확인할 수 있는 웹 페이지 | Javascript |
